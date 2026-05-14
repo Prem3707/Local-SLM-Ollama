@@ -1,0 +1,4 @@
+ollama==0.3.3
+rich==13.7.1
+matplotlib==3.9.2
+numpy==2.1.1
