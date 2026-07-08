@@ -1,5 +1,7 @@
 # 🤖 Project 2: Local SLM App with Ollama
 
+> 🔒 **Extended by [Offline-Voice-Assistant](https://github.com/Prem3707/Offline-Voice-Assistant)** — a fully offline, local-model version of this work (faster-whisper + Ollama + Piper, no API keys).
+
 ## What Is It?
 Runs 3 small language models **entirely on your own machine** — no internet, no API keys, no cost per query, no data exposure. Benchmarks them on identical tasks and generates a quality-vs-speed tradeoff report so you can make evidence-based decisions about which model to use.
 
